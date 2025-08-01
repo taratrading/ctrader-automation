@@ -9,7 +9,6 @@ https://github.com/taratrading/ctrader-automation
 Professional-grade algorithmic trading framework for cTrader platform using Spotware Open API
 
 ```bash
-.
 ├── README.md                 # Project documentation (you are here)
 ├── LICENSE                   # MIT License
 ├── requirements.txt          # Python dependencies
